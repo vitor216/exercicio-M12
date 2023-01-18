@@ -1,0 +1,87 @@
+time{
+    display: block;
+}
+
+.post{
+    margin-bottom: 24px;
+}
+
+#carousel-imagens img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+header, footer {
+    background-color: #192a56;
+    padding-top: 16px;
+    color: #fff;
+}
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img{
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+header h1{
+    margin-right: 100px;
+}
+
+nav{
+    background-color: #575fcf;
+    padding: 16px 0;
+    display: none;
+    margin-top: 1px;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 16px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+nav li a {
+    color: #fff;
+    text-decoration: none;
+}
+.menu-hamburguer {
+    width: 32px;
+    cursor: pointer;
+}
+.menu-hamburguer span{
+    height: 2px;
+    width: 100%;
+    background-color: #fff;
+    display: block;
+    margin-bottom: 4px;
+}
+.col-md-8{
+    margin-left: -10px;
+}
+#convenio img{
+    border: 1px solid #192a56;
+    margin-bottom: 10px;
+    max-width: 180px;
+}
+
+.row h3{
+    margin-bottom: 50px;
+}
+
+#espec{
+    margin-top: 69px;
+}
+
+#noticia img{
+max-width: 180px;
+height: 180px;
+}
+
+body{
+    background-color: rgba(0, 0, 280, 0.1)
+}
